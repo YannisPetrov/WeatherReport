@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "od16AjKVzP/k7LHIA6Rsc3NAGMryzmDxGVK/AOh5Vo+VuC3PrMXx2ofedKoxbuYPaOTPlHD0ISgaVLDZEym/Hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\Desktop\\Repositories\\TestCsv\\TestCsv\\TestCsv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

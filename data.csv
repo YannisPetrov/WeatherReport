@@ -1,0 +1,12 @@
+Day/Parameter,Temperature,Wind,Humidity,Percipitation,Lightning,Clouds
+1,28,15,20,0,No,Cumulus
+2,28,3,30,0,No,Cirrus
+3,29,5,35,0,No,Stratus
+4,30,6,50,0,No,Stratus
+5,31,11,70,20,No,Stratus
+6,32,10,89,40,No,Nimbus
+7,31,6,15,30,Yes,Nimbus
+8,50,9,100,20,Yes,Stratus
+9,-1,5,25,0,Yes,Cumulus
+10,4,8,10,0,No,Cirrus
+11,11,7,20,0,No,Cumulus
